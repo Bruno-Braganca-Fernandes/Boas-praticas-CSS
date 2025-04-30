@@ -1,0 +1,24 @@
+{
+  "name": "boas-praticas-css",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bruno-Braganca-Fernandes/Boas-praticas-CSS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bruno-Braganca-Fernandes/Boas-praticas-CSS/issues"
+  },
+  "homepage": "https://github.com/Bruno-Braganca-Fernandes/Boas-praticas-CSS#readme",
+  "description": "",
+  "devDependencies": {
+    "sass": "^1.86.0"
+  }
+}
